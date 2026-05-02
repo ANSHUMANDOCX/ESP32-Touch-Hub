@@ -19,6 +19,8 @@ This is a ESP32-S3 Based HUB paired with a touch screen that can be used for any
 - I will pair a 1800mah Lipo Battery so i can get a considerable amount of battery life.
 - the board is using a MT3608 and ME6217C33M5G ics for 5v and 3.3v regulator along with a MCP73833 for charging the battery
 
+## Firmware
+*ITS YET TO BE TESTED*
 ## PCB SCHEMATIC and CAD 
 <img width="1162" height="811" alt="image" src="https://github.com/user-attachments/assets/1adae1c7-8d83-4371-a157-f9d72f61ec40" />
 <img width="1393" height="804" alt="Screenshot 2026-04-26 230145" src="https://github.com/user-attachments/assets/5adb140a-79d5-40dd-add8-98056622ea33" />
