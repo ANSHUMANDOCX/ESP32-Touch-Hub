@@ -20,13 +20,21 @@ This is a ESP32-S3 Based HUB paired with a touch screen that can be used for any
 - the board is using a MT3608 and ME6217C33M5G ics for 5v and 3.3v regulator along with a MCP73833 for charging the battery
 
 ## Firmware
-*ITS YET TO BE TESTED*
+THe code is tested just put your wifi and password and its ready to go 
+
 ## PCB SCHEMATIC and CAD 
 <img width="1162" height="811" alt="image" src="https://github.com/user-attachments/assets/1adae1c7-8d83-4371-a157-f9d72f61ec40" />
 <img width="1393" height="804" alt="Screenshot 2026-04-26 230145" src="https://github.com/user-attachments/assets/5adb140a-79d5-40dd-add8-98056622ea33" />
 <img width="640" height="421" alt="Screenshot 2026-04-26 224944" src="https://github.com/user-attachments/assets/7fbe173e-a6e0-48bd-950b-729372326b9b" />
 <img width="697" height="429" alt="Screenshot 2026-04-26 224915" src="https://github.com/user-attachments/assets/0cfea25d-e1e3-4189-88f2-14b26c33325e" />
 <img width="939" height="774" alt="Screenshot 2026-04-27 014422" src="https://github.com/user-attachments/assets/46659d56-20cc-4dac-aa74-398fef26e33b" />
+
+## BUILD 
+<img width="3456" height="4608" alt="IMG_20260614_000914" src="https://github.com/user-attachments/assets/e7f60dc3-a79e-4d3a-9eda-d3c5a74d8a59" />
+<img width="4608" height="3456" alt="IMG_20260614_000950" src="https://github.com/user-attachments/assets/bef7f651-7a69-4071-8578-dab475c43fe8" />
+<img width="4608" height="3456" alt="IMG_20260614_001005" src="https://github.com/user-attachments/assets/796cb3ec-2d9a-424e-b6e8-9e41a8f61108" />
+<img width="4608" height="3456" alt="IMG_20260614_001013" src="https://github.com/user-attachments/assets/1e7d6739-acc8-4a0c-907f-992efcc8e0c0" />
+<img width="4608" height="3456" alt="IMG_20260614_001022" src="https://github.com/user-attachments/assets/97a943b1-391b-4236-a5bc-eec3f8aa8781" />
 
 ## BOM
 | Product Name | Quantity | Price ($) | Vendor |
