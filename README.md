@@ -30,6 +30,8 @@ THe code is tested just put your wifi and password and its ready to go
 <img width="939" height="774" alt="Screenshot 2026-04-27 014422" src="https://github.com/user-attachments/assets/46659d56-20cc-4dac-aa74-398fef26e33b" />
 
 ## BUILD 
+Demo Link https://youtube.com/shorts/PqJHbwtBgcA
+
 <img width="3456" height="4608" alt="IMG_20260614_000914" src="https://github.com/user-attachments/assets/e7f60dc3-a79e-4d3a-9eda-d3c5a74d8a59" />
 <img width="4608" height="3456" alt="IMG_20260614_000950" src="https://github.com/user-attachments/assets/bef7f651-7a69-4071-8578-dab475c43fe8" />
 <img width="4608" height="3456" alt="IMG_20260614_001005" src="https://github.com/user-attachments/assets/796cb3ec-2d9a-424e-b6e8-9e41a8f61108" />
